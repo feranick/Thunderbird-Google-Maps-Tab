@@ -10,5 +10,9 @@
   "toolbarButtonTitle": {
     "message": "Google Maps",
     "description": "Hover title for the Spaces Toolbar button."
+  },
+  "contextMenuTitle": {
+    "message": "Ouvrir \"%s\" dans Google Maps",
+    "description": "Label for the context menu when text is highlighted."
   }
 }

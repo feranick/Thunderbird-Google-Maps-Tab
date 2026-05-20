@@ -1,5 +1,5 @@
 # Google Maps Tab
-Unofficial Google Maps add-on for Thunderbird, it adds a button in Spaces that opens a Google Maps tab in Thunderbird.
+Unofficial Google Maps add-on for Thunderbird, it adds a button in Spaces that opens a Google Maps tab in Thunderbird. It also adds and entry in the contextual menu, so when an address in an email is highligthed a right click can be used to open that address on google maps directly on thunderbird. 
 The [home page](https://addons.mozilla.org/thunderbird/addon/google-maps-spaces-tab/) of the extension contains the latest code.
 
 #### Installing 
