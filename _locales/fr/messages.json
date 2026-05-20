@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Onglet Google Maps",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Ajoute un bouton pour ouvrir Google Maps dans un nouvel onglet.",
+    "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Maps",
+    "description": "Hover title for the Spaces Toolbar button."
+  }
+}

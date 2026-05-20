@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Pestaña de Google Maps",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Añade un botón para abrir Google Maps en una nueva pestaña.",
+    "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Maps",
+    "description": "Hover title for the Spaces Toolbar button."
+  }
+}

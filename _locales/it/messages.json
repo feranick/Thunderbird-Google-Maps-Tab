@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Scheda Google Maps",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Aggiunge un bottone per aprire Google Maps in una nuova tab.",
+    "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Maps",
+    "description": "Hover title for the Spaces Toolbar button."
+  }
+}

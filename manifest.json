@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "0.4.0",
+  "author": "Nicola Ferralis",
+  "homepage_url": "https://github.com/feranick/Thunderbird-Google-Maps-Tab/",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "feranick.google-maps-tab@addons.thunderbird.net",
+      "strict_min_version": "106.0"
+    }
+  },  
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://*.google.com/*"
+  ],
+  "default_locale": "en",
+  "icons": {
+    "32": "skin/google_maps_icon.svg",
+    "48": "skin/google_maps_icon.svg",
+    "96": "skin/google_maps_icon.svg"
+  },
+  "background": {
+    "scripts": [
+      "redirect.js"
+    ]
+  }
+}
